@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.header_green{
+    background-color:#00420c;
+    padding:20px ;
+    color: white;
+}
+.header_white{
+    background-color: white;
+    padding: 10px;
+   height: 20px;
+    border-bottom:1px solid #ddd ;
+}
+.header_ul{
+    display: flex;
+    justify-content: space-around;
+}
+
+.header_li{
+    list-style: none;
+}
+.header_a_white{
+    text-decoration: none;
+    color: #606060;
+}
+
+.header_a_green{
+    text-decoration: none;
+    color: #ffff;
+}
+.header_deep_green{
+    color: white;
+    font-size: 24px;
+    margin-right: 10px;
+    margin-left: 20px;
+    margin-top: 10px;
+    font-weight: 900;
+}
